@@ -4,3 +4,5 @@
 * Number 2
 <br></br>
 ### *header 2*
+
+print 10 ** 2
